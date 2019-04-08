@@ -1913,7 +1913,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #adffcb;
+  background: #74ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2745,9 +2745,9 @@ embed {
   display: inline-block;
 }
 .post {
-  margin-top: 30px;
-  margin-bottom: 30px;
-  padding: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 30px;
   -webkit-box-shadow: 0 0 15px #a5c261;
   -moz-box-shadow: 0 0 15px #a5c261;
 }

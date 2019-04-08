@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>独行（WalkAlone0325）的博客</title>
+  <title>独行（WalkAlone0325）</title>
   
-  
+  <subtitle>时光，不会辜负一个努力的人</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
